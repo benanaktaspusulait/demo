@@ -1,0 +1,1 @@
+insert into rules (id,definition,name,function,message,raw_function) values (1, 'test definition','test name', 'test function', 'test message',  'test raw_function')

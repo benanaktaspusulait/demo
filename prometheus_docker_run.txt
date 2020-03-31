@@ -1,0 +1,1 @@
+docker run -d -p 9090:9090 -v /Users/yildizib/Downloads/demo-api/prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
